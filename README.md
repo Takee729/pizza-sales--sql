@@ -1,3 +1,4 @@
+### 📄 [View Full Project Presentation (PDF)](./Takee_pizza_sales_SQL.pdf)
 # Pizza Hut Sales Analysis Project
 This is a project I worked on to practice my SQL skills using a pizza restaurant dataset. I used MySQL Workbench to solve 13 different business problems, ranging from basic data retrieval to more complex revenue analysis.
 
